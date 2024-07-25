@@ -1,0 +1,15 @@
+---
+title: "Five Parameters"
+author: "Sophie Zhu"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup 
+#| message: false
+library(tidyverse)
+library(primer.data)
+```
+
